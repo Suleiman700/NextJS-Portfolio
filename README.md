@@ -4,6 +4,10 @@ A simple portfolio starter theme built with Next.js and Tailwind CSS.
 
 ![img.png](img.png)
 
+
+https://github.com/Suleiman700/NextJS-Portfolio/assets/25286081/6414bcaa-650b-4e49-b550-4807af7a757e
+
+
 ## Features
 
 -   Built with [Next.js](https://nextjs.org)
